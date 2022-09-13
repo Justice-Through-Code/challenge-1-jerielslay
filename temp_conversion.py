@@ -8,7 +8,7 @@ def convert_100_to_celsius():
     celsius_100 = (100 - 32) * 5/9
     print(celsius_100)
     print('Float')
-    # This is a float because the result will have a decimal.
+    # This is a float because the result has a decimal.
 
 def convert_0_to_celsius():
     # Convert a temperature of 0 degrees fahrenheit to celsius
